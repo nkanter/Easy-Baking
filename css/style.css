@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Mali');
+h1{
+  color: magenta;
+font-size: 45px}
+h2{
+  color: magenta;
+font-size: 35px}
+h3{
+  color: magenta;
+font-size: 30px}
+h4{
+  color: magenta;
+  font-size: 25px}
+a{
+  color: orange}
+body {
+  background-image: url("http://www.hotelroomsearch.net/im/hotels/hu/beautiful-chocolate-22.jpg");
+background-size: cover;
+font-family: 'Mali', cursive;}
+a{
+  display: block;
+}
+h1:hover {
+  transition: 1s;
+  transform: translate(50px)
+}
+h2:hover {
+  transition: 1s;
+  transform: translate(50px)
+}
+h3:hover {
+  transition: 1s;
+  transform: translate(50px)
+}
+h4:hover {
+  transition: 1s;
+  transform: translate(50px)
+}
+h4{
+  color: magenta}
